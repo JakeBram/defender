@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/defender/static/css/main.b8234526.css",
-    "main.js": "/defender/static/js/main.9809aa1a.js",
+    "main.css": "/defender/static/css/main.1f45409b.css",
+    "main.js": "/defender/static/js/main.5037f724.js",
     "static/js/453.fa59cfba.chunk.js": "/defender/static/js/453.fa59cfba.chunk.js",
+    "static/media/logo.png": "/defender/static/media/logo.0c8fc03b296d53d1fd1f.png",
     "index.html": "/defender/index.html",
-    "main.b8234526.css.map": "/defender/static/css/main.b8234526.css.map",
-    "main.9809aa1a.js.map": "/defender/static/js/main.9809aa1a.js.map",
+    "main.1f45409b.css.map": "/defender/static/css/main.1f45409b.css.map",
+    "main.5037f724.js.map": "/defender/static/js/main.5037f724.js.map",
     "453.fa59cfba.chunk.js.map": "/defender/static/js/453.fa59cfba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8234526.css",
-    "static/js/main.9809aa1a.js"
+    "static/css/main.1f45409b.css",
+    "static/js/main.5037f724.js"
   ]
 }
