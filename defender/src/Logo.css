@@ -1,0 +1,10 @@
+/* src/components/Logo.css */
+.logo-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo {
+    max-width: 200px;
+    height: auto;
+}

@@ -1,0 +1,15 @@
+/* src/components/Home.css */
+.link-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link-container a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.link-container a:hover {
+    text-decoration: underline;
+}
