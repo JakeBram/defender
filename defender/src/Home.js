@@ -1,6 +1,6 @@
 // src/components/Home.js
 import React from 'react';
-import Logo from './Logo';
+import Logo from './logo/Logo';
 
 const Home = () => {
     return (
